@@ -46,7 +46,7 @@
 elment-ui [在线预览](http://106.14.107.99:233/vue-admin/)  
 bootstrap[在线预览](http://106.14.107.99:88/index.php?r=site%2Fsignup)
 ## 开发文档
-开发文档[点击查看](https://github.com/ruoxianbaby/shanghai-yantong-documents/blob/master/yt-web-developer-document.md)
+开发文档[点击查看](https://github.com/ruoxianbaby/web-design/blob/master/yt-web-developer-document.md)
 ## 结语
 > php是世界上最好的语言。--鲁迅
 
